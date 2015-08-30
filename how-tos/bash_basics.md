@@ -1,4 +1,7 @@
 # Bash Basics
+
+_Note: Don't actually type the `$`._
+
 * What directory am I in?
   * `$ pwd`
 * Change directory
