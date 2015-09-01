@@ -1,5 +1,5 @@
 ## Homework workflow
-* Create issue on the [assignments repo](https://github.com/tiy-chs-ruby/assignments-june-2015/issues) with checkboxes/tasks & a `wip` label
+* Create issue on the [assignments repo](https://github.com/tiy-dc-fee/september-2015/issues) with checkboxes/tasks & a `wip` label
 * Create relevant directory
   * `$ mkdir 1.1-user-input`
 * Initialize `git` for this project
