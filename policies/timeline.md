@@ -7,7 +7,7 @@ There are also an vast number of other topics that will be covered, but
 this is the core of it!
 
 #### Week 1
-* HTML
+* Semantic HTML as structured data
 * CSS
 * Converting PSDs/Images to HTML & CSS
 * Git/GitHub workflows
@@ -20,7 +20,7 @@ this is the core of it!
 * Advanced CSS (animations, transforms, flexbox)
 * Sass
 * Node Package Manager (NPM)
-* Intro to JavaScript
+* JavaScript intro via templating & looping
 
 #### Week 3
 * JavaScript deep-dive
